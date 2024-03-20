@@ -1,6 +1,9 @@
 # FrontEnd Assignment given by K-RITE
-Deployment link - <br>
-https://dash-borad-k-rite-ch0h1c8bo-erpankajk4s-projects.vercel.app/
+### Deployment link - <br>
+https://dash-borad-k-rite.vercel.app/
+<br>
+
+![Screenshot 2024-03-20 211624](https://github.com/erpankajk4/DashBorad-K-RITE/assets/118353291/3807c838-1692-4261-9322-ea0aad0c6866)
 
 ### Installation
 1. Clone the repository:
@@ -55,3 +58,10 @@ React Router DOM: For client-side routing.
 
 5. **Customized Flowbite Components**
     - Tailored Flowbite components' CSS for desired UI improvements.
+
+### DropDown
+![Screenshot 2024-03-20 211734](https://github.com/erpankajk4/DashBorad-K-RITE/assets/118353291/749dc9a4-3b5b-4236-9371-92d845e7d6d8)
+
+### Hoverable Avatars
+![Screenshot 2024-03-20 211756](https://github.com/erpankajk4/DashBorad-K-RITE/assets/118353291/5934cf3b-704b-4083-8d09-ea11096cc8f8)
+

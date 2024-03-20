@@ -89,3 +89,7 @@ table.tableSection {
   background-color: rgb(211, 211, 211); 
   border-radius: 20px; 
 }
+
+div[data-testid="flowbite-dropdown"] {
+  z-index: 99999999;
+}

@@ -1,0 +1,252 @@
+{
+  "folders": {
+    "Products": [
+      {
+        "id": 1,
+        "name": "Roadmap"
+      },
+      {
+        "id": 2,
+        "name": "Feedback"
+      },
+      {
+        "id": 3,
+        "name": "Team"
+      },
+      {
+        "id": 4,
+        "name": "Analytics"
+      }
+    ],
+    "Sales": [
+      {
+        "id": 1,
+        "name": "Sales Roadmap"
+      },
+      {
+        "id": 2,
+        "name": "Sales Feedback"
+      },
+      {
+        "id": 3,
+        "name": "Sales Team"
+      },
+      {
+        "id": 4,
+        "name": "Sales Analytics"
+      }
+    ],
+    "Design": [
+      {
+        "id": 1,
+        "name": "Design Roadmap"
+      },
+      {
+        "id": 2,
+        "name": "Design Feedback"
+      },
+      {
+        "id": 3,
+        "name": "Design Team"
+      },
+      {
+        "id": 4,
+        "name": "Design Analytics"
+      }
+    ],
+    "Office": [],
+    "Legal": []
+  },
+  "brandTableData": [
+    {
+      "id": 0,
+      "brand": "Nike",
+      "brandImage": "https://cdn4.iconfinder.com/data/icons/social-media-2231/512/63-nike_social-64.png",
+      "description": "Leading sportswear brand",
+      "members": [
+        "https://cdn4.iconfinder.com/data/icons/avatars-xmas-giveaway/128/grandma_elderly_nanny_avatar-64.png",
+        "https://cdn2.iconfinder.com/data/icons/avatars-60/5985/24-Maid-64.png",
+        "https://cdn2.iconfinder.com/data/icons/avatars-60/5985/30-Scientist-64.png",
+        "https://cdn1.iconfinder.com/data/icons/user-pictures/101/malecostume-64.png",
+        "https://cdn1.iconfinder.com/data/icons/user-pictures/100/female1-64.png",
+        "https://cdn4.iconfinder.com/data/icons/avatars-xmas-giveaway/128/grandma_elderly_nanny_avatar-64.png",
+        "https://cdn2.iconfinder.com/data/icons/avatars-60/5985/24-Maid-64.png"
+      ],
+      "categories": ["Sportswear", "Footwear"],
+      "tags": ["Athletic", "Fashion"],
+      "nextMeeting": "in 30 minutes",
+      "commentsCounts": 0
+    },
+    {
+      "id": 1,
+      "brand": "Apple",
+      "brandImage": "https://cdn3.iconfinder.com/data/icons/picons-social/57/56-apple-64.png",
+      "description": "Technology company",
+      "members": [
+        "https://cdn2.iconfinder.com/data/icons/avatars-60/5985/30-Scientist-64.png",
+        "https://cdn1.iconfinder.com/data/icons/user-pictures/101/malecostume-64.png",
+        "https://cdn1.iconfinder.com/data/icons/user-pictures/100/female1-64.png"
+      ],
+      "categories": ["Electronics", "Software"],
+      "tags": ["Innovation", "Design"],
+      "nextMeeting": "Tomorrow",
+      "commentsCounts": 23
+    },
+    {
+      "id": 2,
+      "brand": "Coca-Cola",
+      "brandImage": "https://cdn4.iconfinder.com/data/icons/soda_pop_caps/PNG/Diet-Coke_128.png",
+      "description": "Beverage company",
+      "members": [
+        "https://cdn4.iconfinder.com/data/icons/avatars-xmas-giveaway/128/grandma_elderly_nanny_avatar-64.png",
+        "https://cdn1.iconfinder.com/data/icons/user-pictures/101/malecostume-64.png",
+        "https://cdn1.iconfinder.com/data/icons/user-pictures/100/female1-64.png",
+        "https://cdn4.iconfinder.com/data/icons/avatars-xmas-giveaway/128/grandma_elderly_nanny_avatar-64.png",
+        "https://cdn2.iconfinder.com/data/icons/avatars-60/5985/24-Maid-64.png",
+        "https://cdn2.iconfinder.com/data/icons/avatars-60/5985/30-Scientist-64.png",
+        "https://cdn1.iconfinder.com/data/icons/user-pictures/101/malecostume-64.png",
+        "https://cdn1.iconfinder.com/data/icons/user-pictures/100/female1-64.png",
+        "https://cdn4.iconfinder.com/data/icons/avatars-xmas-giveaway/128/grandma_elderly_nanny_avatar-64.png",
+        "https://cdn2.iconfinder.com/data/icons/avatars-60/5985/24-Maid-64.png"
+      ],
+      "categories": ["Beverages"],
+      "tags": ["Refreshment", "Soda"],
+      "nextMeeting": "Tomorrow",
+      "commentsCounts": 10
+    },
+    {
+      "id": 3,
+      "brand": "Amazon",
+      "brandImage": "https://cdn3.iconfinder.com/data/icons/picons-social/57/67-amazon-64.png",
+      "description": "E-commerce giant",
+      "members": [
+        "https://cdn1.iconfinder.com/data/icons/user-pictures/100/female1-64.png"
+      ],
+      "categories": ["E-commerce", "Technology"],
+      "tags": ["Online shopping", "Cloud services"],
+      "nextMeeting": "in 6 hours",
+      "commentsCounts": 0
+    },
+    {
+      "id": 4,
+      "brand": "Adidas",
+      "brandImage": "https://cdn4.iconfinder.com/data/icons/social-media-2231/512/138-adidas_social-64.png",
+      "description": "Sports apparel manufacturer",
+      "members": [
+        "https://cdn4.iconfinder.com/data/icons/avatars-xmas-giveaway/128/grandma_elderly_nanny_avatar-64.png",
+        "https://cdn1.iconfinder.com/data/icons/user-pictures/101/malecostume-64.png",
+        "https://cdn1.iconfinder.com/data/icons/user-pictures/100/female1-64.png",
+        "https://cdn4.iconfinder.com/data/icons/avatars-xmas-giveaway/128/grandma_elderly_nanny_avatar-64.png",
+        "https://cdn2.iconfinder.com/data/icons/avatars-60/5985/24-Maid-64.png",
+        "https://cdn2.iconfinder.com/data/icons/avatars-60/5985/30-Scientist-64.png",
+        "https://cdn1.iconfinder.com/data/icons/user-pictures/101/malecostume-64.png",
+        "https://cdn1.iconfinder.com/data/icons/user-pictures/100/female1-64.png",
+        "https://cdn4.iconfinder.com/data/icons/avatars-xmas-giveaway/128/grandma_elderly_nanny_avatar-64.png",
+        "https://cdn2.iconfinder.com/data/icons/avatars-60/5985/24-Maid-64.png",
+        "https://cdn2.iconfinder.com/data/icons/avatars-60/5985/30-Scientist-64.png"
+      ],
+      "categories": ["Sportswear", "Footwear"],
+      "tags": ["Athletic", "Fashion"],
+      "nextMeeting": "No contact",
+      "commentsCounts": 18
+    },
+    {
+      "id": 5,
+      "brand": "Google",
+      "brandImage": "https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_google-64.png",
+      "description": "Internet services and products",
+      "members": [
+        "https://cdn4.iconfinder.com/data/icons/avatars-xmas-giveaway/128/grandma_elderly_nanny_avatar-64.png",
+        "https://cdn2.iconfinder.com/data/icons/avatars-60/5985/30-Scientist-64.png"
+      ],
+      "categories": ["Technology", "Internet"],
+      "tags": ["Search", "Innovation"],
+      "nextMeeting": "in 1 hour",
+      "commentsCounts": 35
+    },
+    {
+      "id": 6,
+      "brand": "Microsoft",
+      "brandImage": "https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Windows_Phone-64.png",
+      "description": "Technology company",
+      "members": ["https://cdn2.iconfinder.com/data/icons/avatars-60/5985/30-Scientist-64.png"],
+      "categories": ["Software", "Hardware"],
+      "tags": ["Windows", "Office"],
+      "nextMeeting": "in 30 minutes",
+      "commentsCounts": 25
+    },
+    {
+      "id": 7,
+      "brand": "Samsung",
+      "brandImage": "https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/samsung-64.png",
+      "description": "Electronics company",
+      "members": [
+        "https://cdn2.iconfinder.com/data/icons/avatars-60/5985/24-Maid-64.png",
+        "https://cdn2.iconfinder.com/data/icons/avatars-60/5985/30-Scientist-64.png",
+        "https://cdn1.iconfinder.com/data/icons/user-pictures/101/malecostume-64.png"
+      ],
+      "categories": ["Electronics", "Technology"],
+      "tags": ["Mobile", "TV"],
+      "nextMeeting": "2024-04-07",
+      "commentsCounts": 20
+    },
+    {
+      "id": 8,
+      "brand": "McDonald's",
+      "brandImage": "https://cdn0.iconfinder.com/data/icons/logos-21/40/McDonald-64.png",
+      "description": "Fast food restaurant chain",
+      "members": [
+        "https://cdn4.iconfinder.com/data/icons/avatars-xmas-giveaway/128/grandma_elderly_nanny_avatar-64.png",
+        "https://cdn1.iconfinder.com/data/icons/user-pictures/100/female1-64.png"
+      ],
+      "categories": ["Food", "Fast food"],
+      "tags": ["Burgers", "Fries"],
+      "nextMeeting": "2024-04-09",
+      "commentsCounts": 12
+    },
+    {
+      "id": 9,
+      "brand": "Toyota",
+      "brandImage": "https://cdn0.iconfinder.com/data/icons/car-brands/550/Toyota_logo-64.png",
+      "description": "Automobile manufacturer",
+      "members": [
+        "https://cdn4.iconfinder.com/data/icons/avatars-xmas-giveaway/128/grandma_elderly_nanny_avatar-64.png",
+        "https://cdn2.iconfinder.com/data/icons/avatars-60/5985/30-Scientist-64.png",
+        "https://cdn1.iconfinder.com/data/icons/user-pictures/100/female1-64.png"
+      ],
+      "categories": ["Automobiles"],
+      "tags": ["Cars", "Hybrid"],
+      "nextMeeting": "2024-04-12",
+      "commentsCounts": 17
+    },
+    {
+      "id": 10,
+      "brand": "Disney",
+      "brandImage": "https://cdn4.iconfinder.com/data/icons/religion-science/30/wonderland-64.png",
+      "description": "Entertainment company",
+      "members": [
+        "https://cdn1.iconfinder.com/data/icons/user-pictures/100/female1-64.png"
+      ],
+      "categories": ["Entertainment", "Media"],
+      "tags": ["Movies", "Theme parks"],
+      "nextMeeting": "2024-04-15",
+      "commentsCounts": 28
+    },
+    {
+      "id": 11,
+      "brand": "IBM",
+      "brandImage": "https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/ibm-64.png",
+      "description": "Technology and consulting company",
+      "members": [
+        "https://cdn2.iconfinder.com/data/icons/avatars-60/5985/24-Maid-64.png",
+        "https://cdn2.iconfinder.com/data/icons/avatars-60/5985/30-Scientist-64.png",
+        "https://cdn1.iconfinder.com/data/icons/user-pictures/101/malecostume-64.png",
+        "https://cdn1.iconfinder.com/data/icons/user-pictures/100/female1-64.png"
+      ],
+      "categories": ["Technology", "Consulting"],
+      "tags": ["Computers", "AI"],
+      "nextMeeting": "2024-04-18",
+      "commentsCounts": 14
+    }
+  ]
+}

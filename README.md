@@ -1,10 +1,11 @@
 # FrontEnd Assignment given by K-RITE
-Deployment link - 
+Deployment link - <br>
+https://dash-borad-k-rite-ch0h1c8bo-erpankajk4s-projects.vercel.app/
 
 ### Installation
 1. Clone the repository:
    ```
-   git clone https://github.com/erpankajk4/DashBorad-K-RITE
+   git clone https://github.com/erpankajk4/DashBorad-K-RITE.git
    ```
 
 2. Navigate to the project directory:
